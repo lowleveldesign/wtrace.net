@@ -9,6 +9,16 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: lowleveldesign
 github_username:  lowleveldesign
 
+permalink: pretty
+
+defaults:
+  - 
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: /:year/:month/:day/:title
+
 show_excerpts: false
 
 # Build settings
@@ -19,5 +29,5 @@ plugins:
 
 header_pages:
   - tools.md
-  - documentation.md
+  - documentation/index.md
   - about.md

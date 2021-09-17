@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  Announcing dotnet-wtrace 1.0
-date:   2021-07-23 15:00:00 +0200
-categories: dotnet-wtrace
+date:   2021-07-03 15:00:00 +0200
+permalink: /2021/07/03/announcing-dotnet-wtrace-1-0/
 ---
 
 I am happy to announce that the first version of **dotnet-wtrace** is available for download 🎉️ Like wtrace, it is an **open-source**, command-line tool that collects process traces in real-time and displays them in the standard output. However, dotnet-wtrace focuses only on events coming from .NET applications. It uses EventPipe to read runtime and application events and works with .NET Core applications (2.1+) on all the supported platforms.
