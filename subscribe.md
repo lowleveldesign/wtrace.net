@@ -14,7 +14,7 @@ If you would like to receive updates on wtrace tools releases (including BETAs),
      We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
 <div id="mc_embed_signup">
-<form action="https://wtrace.us2.list-manage.com/subscribe/post?u=502722ef000884b9c9ef396bf&amp;id=d6b682bbad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://wtrace.us2.list-manage.com/subscribe/post?u=502722ef000884b9c9ef396bf&amp;id=d6b682bbad" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" novalidate>
     <div id="mc_embed_signup_scroll">
   
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>

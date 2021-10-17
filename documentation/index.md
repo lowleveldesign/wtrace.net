@@ -3,7 +3,7 @@ layout: page
 title: Documentation
 ---
 
-## Tools 🛠
+## 🔧Tools
 
 - [wtrace](/documentation/wtrace)
 - [dotnet-wtrace](/documentation/dotnet-wtrace)
