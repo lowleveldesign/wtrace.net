@@ -7,3 +7,4 @@ title: Documentation
 
 - [wtrace](/documentation/wtrace)
 - [dotnet-wtrace](/documentation/dotnet-wtrace)
+- [comon](/documentation/comon)
